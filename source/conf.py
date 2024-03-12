@@ -21,6 +21,8 @@ myst_enable_extensions = ["colon_fence"]
 myst_heading_anchors = 6
 todo_include_todos = True
 toggleprompt_offset_right = 35
+feed_base_url = 'https://kasperlin.github.io/AtEoD/'
+feed_author = 'Kasper Lin'
 
 
 # -- Options for HTML output -------------------------------------------------
