@@ -14,6 +14,7 @@ extensions = [
     "sphinx_toggleprompt",
     "sphinx.ext.intersphinx",
     "sphinx.ext.todo",
+    "yasfb",
 ]
 copybutton_prompt_text = ">>> "
 myst_enable_extensions = ["colon_fence"]
