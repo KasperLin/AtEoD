@@ -32,3 +32,5 @@ html_theme_options = {
     "use_sidenotes": True,
     "navigation_with_keys": False,
 }
+html_static_path = ["_static"]
+html_css_files = ["custom.css"]
