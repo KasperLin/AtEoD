@@ -1,11 +1,98 @@
-body,
-p,
-div,
-h1,
-h2,
-h3,
-h4,
-h5,
-h6 {
-    font-family: "Times New Roman"
+html {
+	font-size: 19px;
+}
+
+html, body {
+	margin: auto;
+	/* background: #fefefe; */
+	-webkit-font-smoothing: antialiased;
+}
+
+body {
+	/* font-family: "Vollkorn", Palatino, Times; */
+	font-family: Times;
+	/* color: #333; */
+	line-height: 1.4;
+	text-align: justify;
+}
+
+h1 {
+    font-weight: normal;
+	font-size:3em;
+}
+
+h1, 
+h2, 
+h3{
+	font-weight: normal;
+	text-align: center;
+    font-family: Times;
+}
+
+h3 {
+	font-style: italic;
+}
+
+ul {
+	list-style: square;
+	padding-left: 1.2em;
+}
+ol {
+	padding-left: 1.2em;
+}
+
+blockquote {
+	margin-left: 1em;
+	padding-left: 1em;
+	border-left: 1px solid #ddd;
+}
+code,
+pre {
+	font-family: "Consolas", "Menlo", "Monaco", monospace, serif;
+	font-size: .9em;
+	background: white;
+}
+
+a {
+	color: #2484c1;
+	text-decoration: none;
+}
+a:hover {
+	text-decoration: underline;
+}
+a img {
+	border: none;
+}
+
+h1 a,
+h1 a:hover {
+	color: #333;
+	text-decoration: none;
+}
+
+hr {
+	/* color: #ddd; */
+	height: 1px;
+	margin: 2em 0;
+	/* border-top: solid 1px #ddd; */
+	border-bottom: none;
+	border-left: 0;
+	border-right: 0;
+}
+
+table {
+	margin-bottom: 1.333333rem
+}
+table th,
+table td {
+	padding: 8px;
+	line-height: 1.333333rem;
+	vertical-align: top;
+	/* border-top: 1px solid #ddd */
+}
+table th {
+	font-weight: bold
+}
+table thead th {
+	vertical-align: bottom
 }
