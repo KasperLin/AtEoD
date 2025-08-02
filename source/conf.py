@@ -26,8 +26,5 @@ toggleprompt_offset_right = 35
 html_theme = "furo"
 html_title = "AtEoD"
 html_last_updated_fmt = "%Y-%m-%d %H:%M"
-html_theme_options = {
-    "navigation_with_keys": False,
-}
 html_static_path = ["_static"]
 html_css_files = ["custom.css"]
