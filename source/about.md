@@ -1,5 +1,5 @@
 # About
 
-INFJ、quant，迷恋音乐、b-boy 和猫。
+INFJ、quant，迷恋音乐、文字、舞蹈和猫。
 
-能在 [Instagram](https://www.instagram.com/kasperlin1997/) 、[X](https://x.com/LinKasper) 、和[知乎](https://www.zhihu.com/people/kasperlin1024)上被找到。
+能在 [知乎](https://www.zhihu.com/people/kasperlin1024)、[Twitter](https://x.com/LinKasper)、[Instagram](https://www.instagram.com/kasperlin1997/) 上被找到。
