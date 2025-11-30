@@ -9,8 +9,8 @@ html, body {
 }
 
 body {
-	/* font-family: "Vollkorn", Palatino, Times; */
-	font-family: Times;
+	/* font-family: Times; */
+	font-family: "Times New Roman", Times, "PingFang SC", "Songti SC", "Noto Serif SC", "STSong", "SimSun", serif;
 	/* color: #333; */
 	line-height: 1.4;
 	text-align: justify;
