@@ -64,6 +64,20 @@ a img {
 	border: none;
 }
 
+/* Keep article images readable on desktop, but fluid on small screens. */
+article#furo-main-content img {
+	display: block;
+	max-width: 60%;
+	height: auto;
+	margin: 1rem auto;
+}
+
+@media (max-width: 768px) {
+	article#furo-main-content img {
+		max-width: 100%;
+	}
+}
+
 h1 a,
 h1 a:hover {
 	color: #333;
