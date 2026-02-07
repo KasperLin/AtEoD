@@ -6,4 +6,4 @@ INFJ、quant，迷恋音乐、文字、舞蹈和猫。
 
 ![](https://pikgo-1304375007.cos.ap-guangzhou.myqcloud.com/20260207121058.jpg)
 
-![](https://pikgo-1304375007.cos.ap-guangzhou.myqcloud.com/20260207220732.JPG)
+![](https://pikgo-1304375007.cos.ap-guangzhou.myqcloud.com/20260207221910.JPG)
