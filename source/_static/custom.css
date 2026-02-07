@@ -64,17 +64,17 @@ a img {
 	border: none;
 }
 
-/* Keep article images readable on desktop, but fluid on small screens. */
+/* Keep article images readable with extra whitespace on all devices. */
 article#furo-main-content img {
 	display: block;
-	max-width: 60%;
+	max-width: 50%;
 	height: auto;
 	margin: 1rem auto;
 }
 
 @media (max-width: 768px) {
 	article#furo-main-content img {
-		max-width: 100%;
+		max-width: 85%;
 	}
 }
 
