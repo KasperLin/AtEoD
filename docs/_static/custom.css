@@ -9,8 +9,10 @@ html, body {
 }
 
 body {
+	--font-stack: "Times New Roman", Times, "Songti SC", "STSong", "Noto Serif CJK SC", "Noto Serif SC", "SimSun", serif;
+	--font-stack--headings: var(--font-stack);
 	/* font-family: Times; */
-	font-family: "Times New Roman", Times, "PingFang SC", "Songti SC", "Noto Serif SC", "STSong", "SimSun", serif;
+	font-family: var(--font-stack);
 	/* color: #333; */
 	line-height: 1.4;
 	text-align: justify;
