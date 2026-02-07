@@ -28,3 +28,5 @@ html_title = "AtEoD"
 html_last_updated_fmt = "%Y-%m-%d %H:%M"
 html_static_path = ["_static"]
 html_css_files = ["custom.css"]
+html_copy_source = False
+html_show_sourcelink = False
