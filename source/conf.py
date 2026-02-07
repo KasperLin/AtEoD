@@ -1,7 +1,7 @@
 # -- Project information -----------------------------------------------------
 
 project = "AtEoD"
-copyright = "2024, kasper"
+copyright = "1997, kasper"
 author = "kasper"
 
 
