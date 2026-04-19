@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>AtEoD</title>
+    <link>https://kasperlin.github.io/AtEoD/feed.xml</link>
+    <description>At the End of the Day</description>
+    <atom:link href="https://kasperlin.github.io/AtEoD/feed.xml" rel="self" type="application/rss+xml"/>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>python-feedgen</generator>
+    <language>zh-CN</language>
+    <lastBuildDate>Sat, 07 Feb 2026 00:00:00 +0000</lastBuildDate>
+    <item>
+      <title>小太阳</title>
+      <link>https://kasperlin.github.io/AtEoD/blogs/20140703.html</link>
+      <description>☀️</description>
+      <guid isPermaLink="false">https://kasperlin.github.io/AtEoD/blogs/20140703.html</guid>
+      <pubDate>Sun, 13 Jul 2014 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>小月亮</title>
+      <link>https://kasperlin.github.io/AtEoD/blogs/20230101.html</link>
+      <description>🌔</description>
+      <guid isPermaLink="false">https://kasperlin.github.io/AtEoD/blogs/20230101.html</guid>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>最后一门编程语言</title>
+      <link>https://kasperlin.github.io/AtEoD/blogs/20260207.html</link>
+      <description>世上的最后一门编程语言是 Markdown 。</description>
+      <guid isPermaLink="false">https://kasperlin.github.io/AtEoD/blogs/20260207.html</guid>
+      <pubDate>Sat, 07 Feb 2026 00:00:00 +0000</pubDate>
+    </item>
+  </channel>
+</rss>
