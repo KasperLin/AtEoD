@@ -2,6 +2,5 @@
 
 ```{toctree}
 blogs/index
-notes/index
 about
 ```
