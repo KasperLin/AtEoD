@@ -1,8 +1,8 @@
 # 林叙
 
-```{toctree}
-:glob:
-:reversed:
-
-[0-9]*
+```{eval-rst}
+.. postlist::
+  :list-style: circle
+  :format: {title}
+  :sort:
 ```
