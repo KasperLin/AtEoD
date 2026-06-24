@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <id>https://kasperlin.github.io/AtEoD/</id>
+  <title>AtEoD</title>
+  <updated>2026-06-24T05:55:19.216908+00:00</updated>
+  <link href="https://kasperlin.github.io/AtEoD/"/>
+  <link href="https://kasperlin.github.io/AtEoD/blog/atom.xml" rel="self"/>
+  <generator uri="https://ablog.readthedocs.io/" version="0.11.13">ABlog</generator>
+  <entry>
+    <id>https://kasperlin.github.io/AtEoD/blogs/20260207.html</id>
+    <title>最后一门编程语言</title>
+    <updated>2026-02-07T00:00:00+08:00</updated>
+    <content type="html">&lt;p class="ablog-post-excerpt"&gt;&lt;p&gt;世上的最后一门编程语言是 Markdown 。&lt;/p&gt;
+&lt;/p&gt;
+</content>
+    <link href="https://kasperlin.github.io/AtEoD/blogs/20260207.html"/>
+    <summary>世上的最后一门编程语言是 Markdown 。</summary>
+    <category term="blog" label="blog"/>
+    <published>2026-02-07T00:00:00+08:00</published>
+  </entry>
+  <entry>
+    <id>https://kasperlin.github.io/AtEoD/blogs/20230101.html</id>
+    <title>小月亮</title>
+    <updated>2023-01-01T00:00:00+08:00</updated>
+    <content type="html">&lt;p class="ablog-post-excerpt"&gt;&lt;p&gt;🌔&lt;/p&gt;
+&lt;/p&gt;
+</content>
+    <link href="https://kasperlin.github.io/AtEoD/blogs/20230101.html"/>
+    <summary>🌔</summary>
+    <category term="blog" label="blog"/>
+    <published>2023-01-01T00:00:00+08:00</published>
+  </entry>
+  <entry>
+    <id>https://kasperlin.github.io/AtEoD/blogs/20140703.html</id>
+    <title>小太阳</title>
+    <updated>2014-07-13T00:00:00+08:00</updated>
+    <content type="html">&lt;p class="ablog-post-excerpt"&gt;&lt;p&gt;☀️&lt;/p&gt;
+&lt;/p&gt;
+</content>
+    <link href="https://kasperlin.github.io/AtEoD/blogs/20140703.html"/>
+    <summary>☀️</summary>
+    <category term="blog" label="blog"/>
+    <published>2014-07-13T00:00:00+08:00</published>
+  </entry>
+</feed>

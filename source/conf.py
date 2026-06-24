@@ -31,3 +31,5 @@ html_static_path = ["_static"]
 html_css_files = ["custom.css"]
 html_copy_source = False
 html_show_sourcelink = False
+blog_baseurl = "https://kasperlin.github.io/AtEoD/"
+blog_title = "AtEoD"
