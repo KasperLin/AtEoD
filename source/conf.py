@@ -8,6 +8,7 @@ author = "kasper"
 # -- General configuration ---------------------------------------------------
 
 extensions = [
+    "ablog", 
     "myst_parser",
     "sphinx_copybutton",
     "sphinx_design",
