@@ -4,5 +4,4 @@
 .. postlist::
   :list-style: circle
   :format: {title}
-  :sort:
 ```
