@@ -2,29 +2,40 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>https://kasperlin.github.io/AtEoD/</id>
   <title>AtEoD</title>
-  <updated>2026-06-24T06:08:29.795001+00:00</updated>
+  <updated>2026-07-13T07:57:49.740157+00:00</updated>
   <link href="https://kasperlin.github.io/AtEoD/"/>
   <link href="https://kasperlin.github.io/AtEoD/blog/atom.xml" rel="self"/>
   <generator uri="https://ablog.readthedocs.io/" version="0.11.13">ABlog</generator>
   <entry>
-    <id>https://kasperlin.github.io/AtEoD/blogs/My%20Moon.html</id>
+    <id>https://kasperlin.github.io/AtEoD/blogs/%E7%BA%AA%E5%BF%B5%E6%97%A5.html</id>
+    <title>纪念日</title>
+    <updated>2026-07-13T00:00:00+08:00</updated>
+    <content type="html">&lt;p class="ablog-post-excerpt"&gt;&lt;p&gt;那天倏尔蓄谋已久地考你：“知道为什么这一天是纪念日吗？”。&lt;/p&gt;
+&lt;/p&gt;
+</content>
+    <link href="https://kasperlin.github.io/AtEoD/blogs/%E7%BA%AA%E5%BF%B5%E6%97%A5.html"/>
+    <summary>那天倏尔蓄谋已久地考你：“知道为什么这一天是纪念日吗？”。</summary>
+    <published>2026-07-13T00:00:00+08:00</published>
+  </entry>
+  <entry>
+    <id>https://kasperlin.github.io/AtEoD/blogs/%E5%B0%8F%E6%9C%88%E4%BA%AE.html</id>
     <title>小月亮</title>
     <updated>2023-01-01T00:00:00+08:00</updated>
     <content type="html">&lt;p class="ablog-post-excerpt"&gt;&lt;p&gt;🌔&lt;/p&gt;
 &lt;/p&gt;
 </content>
-    <link href="https://kasperlin.github.io/AtEoD/blogs/My%20Moon.html"/>
+    <link href="https://kasperlin.github.io/AtEoD/blogs/%E5%B0%8F%E6%9C%88%E4%BA%AE.html"/>
     <summary>🌔</summary>
     <published>2023-01-01T00:00:00+08:00</published>
   </entry>
   <entry>
-    <id>https://kasperlin.github.io/AtEoD/blogs/My%20Sun.html</id>
+    <id>https://kasperlin.github.io/AtEoD/blogs/%E5%B0%8F%E5%A4%AA%E9%98%B3.html</id>
     <title>小太阳</title>
     <updated>2014-07-13T00:00:00+08:00</updated>
     <content type="html">&lt;p class="ablog-post-excerpt"&gt;&lt;p&gt;☀️&lt;/p&gt;
 &lt;/p&gt;
 </content>
-    <link href="https://kasperlin.github.io/AtEoD/blogs/My%20Sun.html"/>
+    <link href="https://kasperlin.github.io/AtEoD/blogs/%E5%B0%8F%E5%A4%AA%E9%98%B3.html"/>
     <summary>☀️</summary>
     <published>2014-07-13T00:00:00+08:00</published>
   </entry>
